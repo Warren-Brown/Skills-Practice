@@ -1,0 +1,7 @@
+C:\Users\Warren\source\repos\MSSA\insertionSort\insertionSort\bin\Debug\insertionSort.exe.config
+C:\Users\Warren\source\repos\MSSA\insertionSort\insertionSort\bin\Debug\insertionSort.exe
+C:\Users\Warren\source\repos\MSSA\insertionSort\insertionSort\bin\Debug\insertionSort.pdb
+C:\Users\Warren\source\repos\MSSA\insertionSort\insertionSort\obj\Debug\insertionSort.csprojAssemblyReference.cache
+C:\Users\Warren\source\repos\MSSA\insertionSort\insertionSort\obj\Debug\insertionSort.csproj.CoreCompileInputs.cache
+C:\Users\Warren\source\repos\MSSA\insertionSort\insertionSort\obj\Debug\insertionSort.exe
+C:\Users\Warren\source\repos\MSSA\insertionSort\insertionSort\obj\Debug\insertionSort.pdb
